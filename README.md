@@ -1,5 +1,5 @@
 # suDO 0.1!
-## **DISCLAIMER: I did NOT create this, this is entirely based off of this repo:**
+## **DISCLAIMER: I did NOT create this, I only intended to make this a stylized mirror, this is entirely based off this repo:**
 ### **[https://github.com/WebOsu-2/webosu-2.github.io](url)**
 <img src="favicon.svg" width="256" height="256" />
 
