@@ -1,4 +1,8 @@
 # suDO 0.1!
+## **DISCLAIMER: I did NOT create this, this is entirely based off of this repo:**
+### **[https://github.com/WebOsu-2/webosu-2.github.io](url)**
+<img src="favicon.svg" width="256" height="256" />
+
 
 Osu! is a rhythm game in which you click circles on the screen, following the rhythm of the music.
 
